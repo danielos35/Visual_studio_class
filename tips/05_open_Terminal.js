@@ -1,4 +1,3 @@
 /*
 Ctrl + ' (Abrir terminal)
-
 */ 
