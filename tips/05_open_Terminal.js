@@ -1,0 +1,4 @@
+/*
+Ctrl + ' (Abrir terminal)
+
+*/ 
