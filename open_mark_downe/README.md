@@ -1,6 +1,7 @@
 # Angular14
 
 Open markdown with Ctrl + shift + v
+Ver en tiempo real Ctrl + P (ver en tiempo real markDown)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
