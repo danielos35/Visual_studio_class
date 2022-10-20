@@ -3,6 +3,10 @@
 
 Multicursos formato
 
+Capitalizar
+
+Ctrl + D (Seleccionar multiples textos iguales)
+
 
 */ 
 
